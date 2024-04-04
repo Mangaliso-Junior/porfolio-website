@@ -12,7 +12,7 @@ const introdata = {
         third: "I'm profficent with UML",
     },
     description: "Initiative-taking and meticulous student with a passion for technology and problem-solving.",
-    your_img_url: "https://drive.google.com/file/d/1bS7BrJChiFk80qd46_7pilulT-_D4eYo/uc?export=download",
+    your_img_url: "https://github.com/Mangaliso-Junior/portfolio-website/blob/master/PHOTO-2024-03-23-16-54-49.jpg?raw=true",
 };
 
 const dataabout = {
