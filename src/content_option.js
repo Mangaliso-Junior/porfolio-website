@@ -1,156 +1,98 @@
-const logotext = "JOHN";
+const logotext = "MJ";
 const meta = {
-    title: "John Doe",
+    title: "Mangaliso J Yster",
     description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Mangaliso Yster",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I work with data",
+        third: "I'm profficent with UML",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Initiative-taking and meticulous student with a passion for technology and problem-solving.",
+    your_img_url: "https://tut4lifeac-my.sharepoint.com/:i:/r/personal/224578768_tut4life_ac_za/Documents/PHOTO-2024-03-23-16-54-49.jpg?csf=1&web=1&e=hgoLu3",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "In Focus: Exploring My Journey & Passions",
+    aboutme: "Initiative-taking and meticulous, I am a student deeply passionate about technology and problem-solving. Currently seeking an internship opportunity to fortify my knowledge and propel towards achieving my career aspirations, I bring to the table robust technical skills in programming, database management, and data analysis. As an adaptive learner driven by a strong enthusiasm for technology, I am committed to making a meaningful impact in the world.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Appointment Booking Website Developer",
+        where: "Personal Project",
+        date: "2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Java Tutor",
+        where: "Freelance",
+        date: "2022",
     },
-    {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
-    },
+    
 ];
 
 const skills = [{
         name: "Python",
-        value: 90,
+        value: 75,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Flask", 
+        value: 65,
     },
     {
-        name: "Javascript",
+        name: "Java",
+        value: 70,
+    },
+    {
+        name: "MySQL",
         value: 80,
     },
     {
-        name: "React",
-        value: 60,
+        name: "MS SQL Server",
+        value: 80,
     },
     {
-        name: "Jquery",
+        name: "UML",
         value: 85,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Python Development",
+        description: "As a third-year student, I'm passionate about deliving itn Python development, let's explore the vast capabilities of Python, from crafting dynamic web applications to automating everyday tasks. With Python as our canvas we'll turn ideas into reality, showcasing my growth and creativity through impressive projects that highlight my skills and potential.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Data Analysis",
+        description: "Dive into the world of data analysis with me as your guide. Armed with Python and MySQL, we'll uncover the hidden insights buried within datasets, revealing compelling trends and patterns. As a third-year student, this journey is an opportunity for me to showcase my analytical skills and ability to derive meaningful insights from data, setting me apart as a budding data enthusiast.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "UML Design",
+        description: "Step into my world of software visualization through UML design. As a third-year student, mastering the art of UML not only demonstrates my understanding of software architecture but also showcases my attention to detail and design skills. Together, let's create visually stunning diagrams that bring my projects to life, highlighting my growth and proficiency in software design.",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://github.com/Mangaliso-Junior/appointment-booking-website-python/assets/138589163/f4a9e94d-d825-4466-953f-c962ca2cadb8",
+        description: "Appointment Booking Website",
+        link: "https://appointment-booking-website-fb02fd7227c4.herokuapp.com/login",
+        umlPdfLink:"#"
     },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-    // creat an emailjs.com account 
-    // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_EMAIL: "mangaliso.yster@icloud.com",
+    YOUR_FONE: "+27 60 588 7874",
+    description: `Let's Connect!\nWhether you have a project in mind, want to collaborate, or simply have a question, I'd love to hear from you! Feel free to reach out using the form below or connect with me through email. Let's embark on a journey of creativity, collaboration, and innovation together. Looking forward to hearing from you!`, 
+    SERVICE_ID: "service_zgjyhen",
+    TEMPLATE_ID: "template_fvnm4me",
+    USER_ID: "dt-WMAUZrv6CjJYZe",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/Mangaliso-Junior",
+    linkedin: "https://www.linkedin.com/in/mangaliso-yster-a3bb372ab/in.com",
 };
 export {
     meta,
