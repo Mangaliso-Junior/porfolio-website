@@ -84,7 +84,8 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "mangaliso.yster@icloud.com",
     YOUR_FONE: "+27 60 588 7874",
-    description: `Let's Connect!\nWhether you have a project in mind, want to collaborate, or simply have a question, I'd love to hear from you! Feel free to reach out using the form below or connect with me through email. Let's embark on a journey of creativity, collaboration, and innovation together. Looking forward to hearing from you!`, 
+    description: `Let's Connect!
+    Whether you have a project in mind, want to collaborate, or simply have a question, I'd love to hear from you! Feel free to reach out using the form below or connect with me through email. Let's embark on a journey of creativity, collaboration, and innovation together. Looking forward to hearing from you!`,
     SERVICE_ID: "service_zgjyhen",
     TEMPLATE_ID: "template_fvnm4me",
     USER_ID: "dt-WMAUZrv6CjJYZe",
