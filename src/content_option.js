@@ -9,7 +9,7 @@ const introdata = {
     animated: {
         first: "I love coding",
         second: "I work with data",
-        third: "I'm profficent with UML",
+        third: "I'm proficent with UML",
     },
     description: "Initiative-taking and meticulous student with a passion for technology and problem-solving.",
     your_img_url: "https://github.com/Mangaliso-Junior/portfolio-website/blob/master/PHOTO-2024-03-23-16-54-49.jpg?raw=true",
