@@ -28,7 +28,9 @@ button.btn.ac_btn:hover {
     animation: shift-rightwards 1s ease-in-out infinite;
     animation-delay: .3s;
 }
-
+.connect-section {
+    margin-bottom: 20px;
+}
 @keyframes shift-rightwards {
     0% {
         transform: translateX(-100%);

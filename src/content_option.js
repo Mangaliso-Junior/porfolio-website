@@ -73,9 +73,9 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://github.com/Mangaliso-Junior/appointment-booking-website-python/assets/138589163/f4a9e94d-d825-4466-953f-c962ca2cadb8",
+        img: "https://github.com/Mangaliso-Junior/appointment-booking-app/assets/138589163/7dc224c2-51b7-4fe0-8b4c-489f999f5bc1",
         description: "Appointment Booking Website",
-        link: "https://appointment-booking-website-fb02fd7227c4.herokuapp.com/login",
+        link: "https://appointment-booking-website-457a1f68e10c.herokuapp.com/",
         umlPdfLink:"#"
     },
     
@@ -84,7 +84,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "mangaliso.yster@icloud.com",
     YOUR_FONE: "+27 60 588 7874",
-    description: `Let's Connect!
+    description: `Let's Connect! 
     Whether you have a project in mind, want to collaborate, or simply have a question, I'd love to hear from you! Feel free to reach out using the form below or connect with me through email. Let's embark on a journey of creativity, collaboration, and innovation together. Looking forward to hearing from you!`,
     SERVICE_ID: "service_zgjyhen",
     TEMPLATE_ID: "template_fvnm4me",
