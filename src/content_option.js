@@ -1,7 +1,7 @@
 const logotext = "MJ";
 const meta = {
     title: "Mangaliso J Yster",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "I’m Mangaliso Junior, a student currently studying my Diploma in Informatics",
 };
 
 const introdata = {
@@ -60,7 +60,7 @@ const skills = [{
 
 const services = [{
         title: "Python Development",
-        description: "As a third-year student, I'm passionate about deliving itn Python development, let's explore the vast capabilities of Python, from crafting dynamic web applications to automating everyday tasks. With Python as our canvas we'll turn ideas into reality, showcasing my growth and creativity through impressive projects that highlight my skills and potential.",
+        description: "As a third-year student, I'm passionate about deliving into Python development, let's explore the vast capabilities of Python, from crafting dynamic web applications to automating everyday tasks. With Python as our canvas we'll turn ideas into reality, showcasing my growth and creativity through impressive projects that highlight my skills and potential.",
     },
     {
         title: "Data Analysis",
@@ -76,7 +76,7 @@ const dataportfolio = [{
         img: "https://github.com/Mangaliso-Junior/appointment-booking-app/assets/138589163/7dc224c2-51b7-4fe0-8b4c-489f999f5bc1",
         description: "Appointment Booking Website",
         link: "https://appointment-booking-website-457a1f68e10c.herokuapp.com/",
-        umlPdfLink:"#"
+        umlPdfLink:"https://drive.google.com/file/d/1ypcW-xPqwO-CWFtdvm_wDLoFnxXZqa7p/view?usp=sharing"
     },
     
 ];
